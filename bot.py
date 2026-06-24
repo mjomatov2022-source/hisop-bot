@@ -14,8 +14,8 @@ from aiogram.fsm.state import State, StatesGroup
 from aiogram.fsm.storage.memory import MemoryStorage
 
 # === SOZLAMALAR ===
-BOT_TOKEN = "SIZNING_BOT_TOKENINGIZ"
-GROQ_API_KEY = "SIZNING_GROQ_API_KALITINGIZ"
+BOT_TOKEN = "8914664990:AAEGm47hBH4uV-FX6e9tBxpWXTqfNNlc7NA"
+GROQ_API_KEY = "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"
 
 logging.basicConfig(level=logging.INFO)
 
